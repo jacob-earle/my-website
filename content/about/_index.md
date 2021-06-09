@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2021-06-09T14:40:25-07:00
-draft: true
 ---
 {{<figure src="/images/me.jpg">}}
 
