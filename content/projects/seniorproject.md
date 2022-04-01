@@ -1,7 +1,6 @@
 ---
 title: "Senior Project"
 date: 2022-04-01T00:15:17-04:00
-draft: true
 ---
 
 # Implementation and Theory of Real-Time Scheduling
