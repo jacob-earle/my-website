@@ -2,6 +2,7 @@ baseURL = "https://jacobearle.xyz"
 languageCode = "en-us"
 title = "Jacob Earle"
 theme = "ananke"
+googleAnalytics = 'G-JDYPEPWZQ1'
 
 SectionPagesMenu = "main"
 
